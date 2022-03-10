@@ -36,6 +36,8 @@ hr {
   border-width: 5px;
   margin: 5% auto;
   color: #e0ebe8;
+  background-color: #ffffff;
+  opacity: 100%;
 }
 a {
   font-family: "Montserrat", sans-serif;
